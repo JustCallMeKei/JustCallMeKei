@@ -1,8 +1,8 @@
 # My name is Ike J. Angot
 
-I am 21 years old undergrad CS student currently studying at WVSU. My hobbies is watching K-Dramas or Anime. My favorite genre of movie is Action, and my favorite food is Bep Stick. I love deriving things except math, down to their history, how they are made and what they are made of and why where they made.
+I am 23 years old, an old undergrad CS student currently studying at WVSU. My hobbies is watching K-Dramas or Anime. My favorite movie genre is Action, and my favorite food is Beef Steak. I love deriving things except math, down to their history, how they are made and what they are made of and why where they made.
 
-I have basic knowleedge in C and C++.
+I have basic knowledge in C and C++.
 
 Currently I'm working on a scientific calculator using console to improve my skills and a text based game in the CYOA (Choose Your Own Adventure) genre to improve my literary and decision making skills.
 
