@@ -1,7 +1,8 @@
 # My name is Ike J. Angot
 
-Ni Hao
+Backend developer with passion for developing community projects
 
+---
 
-Projects: 
-https://publink-web.vercel.app/
+**Deployed Projects:**  
+🇵🇭🛺 [Iloilo Publink](https://iloilo.publink.space/)
