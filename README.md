@@ -4,5 +4,5 @@ Backend developer with passion for developing community projects
 
 ---
 
-**Deployed Projects:**  
+**Deployed Personal Projects:**  
 🇵🇭🛺 [Iloilo Publink](https://iloilo.publink.space/)
